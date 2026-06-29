@@ -1,6 +1,6 @@
 # pomodoro-lite
 
 ## Overview
-Pomodoro timer logic
+Pomodoro timer logic.
 
 
